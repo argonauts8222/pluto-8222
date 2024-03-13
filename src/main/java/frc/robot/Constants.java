@@ -52,7 +52,7 @@ public final class Constants {
         new TrapezoidProfile.Constraints(1.0, 2.0);
 
     public static final double kHomePosition = 0.0;
-    public static final double kScoringPosition = 0.0;
+    public static final double kScoringPosition = 2;
     public static final double kIntakePosition = -1.17;
   }
 
